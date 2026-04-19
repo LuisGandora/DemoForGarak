@@ -3,4 +3,5 @@ config.cfg
 GarakClonemethod/
 __pycache__
 garekStuff/
+garakStuff
 garak_config.json
