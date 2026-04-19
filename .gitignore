@@ -1,0 +1,6 @@
+.env
+config.cfg
+GarakClonemethod/
+__pycache__
+garekStuff/
+garak_config.json
